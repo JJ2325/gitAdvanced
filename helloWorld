@@ -2,5 +2,10 @@ hello world
 
 --- code ---
 
+<<<<<<< HEAD
 Erweiterung 2 (Konflikt)
 Erweiterung 1
+=======
+Erweiterung 2
+Erweiterung 1
+>>>>>>> develop
